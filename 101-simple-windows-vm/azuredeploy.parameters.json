@@ -3,16 +3,22 @@
   "contentVersion": "1.0.0.0",
   "parameters": {
     "newStorageAccountName": {
-      "value": "myStorageAccount"
+      "value": "nnsstore1"
     },
     "adminUsername": {
       "value": "admin123"
     },
     "adminPassword": {
-      "value": "ADmin123_!"
+      "value": "Passw0rd!"
     },
     "dnsNameForPublicIP": {
-      "value": "myDnsName"
+      "value": "nns1982"
+    },
+    "location":{
+      "value":"West Us"
+    },
+    "siyeOfDikInGB":{
+      "value": "20"
     }
   }
 }
